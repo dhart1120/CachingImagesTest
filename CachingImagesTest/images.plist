@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cat</key>
+	<string>https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/152964589-welcome-home-new-cat-632x475.jpg</string>
+	<key>dog</key>
+	<string>https://www.guidedogs.org/wp-content/uploads/2015/05/Dog-Im-Not.jpg</string>
+	<key>bird</key>
+	<string>https://abcbirds.org/wp-content/uploads/bfi_thumb/Action-Alert_homepage-thumbnal_MBTA_Scarlet-Tanager_Greg-Lavaty-342pigqom0tq9fn9anrnre.jpg</string>
+</dict>
+</plist>
